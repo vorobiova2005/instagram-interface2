@@ -1,0 +1,106 @@
+
+img {
+  max-width: 100%;
+  display: inline-block;
+}
+div{
+  text-align: center;
+}
+
+.one {
+  margin-top: 5px;
+  margin-left: 50px;
+  width: 40px;
+  height: 30px;
+}
+.two {
+  margin-top: 5px;
+  margin-left: 600px;
+  width: 40px;
+  height: 30px;
+}
+.three {
+  
+  margin-top: 5px;
+  margin-left: -100px;
+  width: 40px;
+  height: 40px;
+}
+.container {
+  text-align: center;
+  margin-top: 20px;
+  border-top: 1px solid grey;
+  border-bottom: 1px solid grey;
+}
+
+.four {
+  margin-top: 20px;
+  margin-bottom: 20px;
+  margin-left: 50px;
+  width: 80px;
+  height: 80px;
+  border-radius: 100%;
+}
+img:hover.four{
+    border: 5px solid rgb(189, 66, 162);
+}
+.five{
+    margin-top: 20px;
+    margin-left: 50px;
+    width: 40px;
+    height: 40px;
+}
+h4{
+   margin-top: -35px;
+    margin-left: 100px;
+}
+.six{
+  
+    margin-top: -50px;
+    margin-left: 1000px;
+    width: 20px;
+    height: 20px; 
+}
+.seven{
+    margin-left: 30px;
+    width: 1200px;
+    height: 500px;
+
+}
+.eight{
+    width: 40px;
+    margin-left: 20px;
+}
+.nine{
+margin-left: 900px;
+width: 50px;
+}
+.ten{
+  margin-top: 10px;
+  width: 20px;
+  height: 20px;
+  margin-left: 20px;
+}
+p{
+  margin-left: 50px;
+  margin-top: -20px;
+}
+.colortext{
+  color: blue;
+}
+h5{
+  font-size: 120%;
+}
+img.eleven {
+  margin-left: 150px;
+  margin-top: 20px;
+  width: 50px;
+  height: 50px;
+}
+.box {
+text-emphasis:center;
+border: 1px solid grey;
+
+}
+
+
